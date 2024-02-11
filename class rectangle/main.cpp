@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 	Rectangle rec(3, 4);
-	cout << "площадь прямоугольника: " << rec.area() << endl;
-	cout << "периметр прямоугольника: " << rec.perimeter() << endl;
-	cout << "диагональ прямоугольника: " << rec.diagonal() << endl;
+	cout << "area of вЂ‹вЂ‹a rectangle : " << rec.area() << endl;
+	cout << "perimeter of a rectangle : " << rec.perimeter() << endl;
+	cout << "rectangle diagonal : " << rec.diagonal() << endl;
 }
